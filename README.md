@@ -7,6 +7,7 @@
 4. https://github.com/ageron/handson-ml/tree/master
 5. https://github.com/enkaranfiles/Machine-Learning-Engineer-Roadmap?tab=readme-ov-file#supervised-learning ****
 6. https://developers.google.com/machine-learning/crash-course
+7. https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
 
 
 
@@ -78,5 +79,23 @@ Amazon Lex - Natural Language Understanding
 Amazon SageMaker - Building and deploying models
 Deploy ML models using Flask
 
-# Day 1
-1. 
+# Week 1
+1. Supervised Learning 
+2. Unsupervised Learning
+3.Reinforcment Learning(Linear Regression, Logistcis Regression, Hiararcical Cluster,K-means) + Practical Projects
+# Week 2-3-4 + Projects
+1. Deep Learning - Introduction Neural Networks, Perceptrones and MLP
+2. Pytorch + Tensorflow + Keras
+3. CNN
+
+# Week 5 
+1. NLP
+
+# Week 6 ML Ops
+mlflow,AWS, GCP, and Azure.
+
+
+
+
+
+
