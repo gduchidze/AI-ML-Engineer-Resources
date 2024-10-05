@@ -79,21 +79,6 @@ Amazon Lex - Natural Language Understanding
 Amazon SageMaker - Building and deploying models
 Deploy ML models using Flask
 
-# Week 1
-1. Supervised Learning 
-2. Unsupervised Learning
-3.Reinforcment Learning(Linear Regression, Logistcis Regression, Hiararcical Cluster,K-means) + Practical Projects
-# Week 2-3-4 + Projects
-1. Deep Learning - Introduction Neural Networks, Perceptrones and MLP
-2. Pytorch + Tensorflow + Keras
-3. CNN
-
-# Week 5 
-1. NLP
-
-# Week 6 ML Ops
-mlflow,AWS, GCP, and Azure.
-
 
 
 
