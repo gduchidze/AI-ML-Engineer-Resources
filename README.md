@@ -6,6 +6,7 @@
 3. https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw
 4. https://github.com/ageron/handson-ml/tree/master
 5. https://github.com/enkaranfiles/Machine-Learning-Engineer-Roadmap?tab=readme-ov-file#supervised-learning ****
+6. https://developers.google.com/machine-learning/crash-course
 
 
 
