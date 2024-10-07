@@ -1,14 +1,20 @@
 # Giorgi Duchidze's 100 days challange
 
 # Sources
-1. https://www.coursera.org/specializations/machine-learning-introduction
-2. https://www.coursera.org/specializations/deep-learning
-3. https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw
-4. https://github.com/ageron/handson-ml/tree/master
-5. https://github.com/enkaranfiles/Machine-Learning-Engineer-Roadmap?tab=readme-ov-file#supervised-learning ****
-6. https://developers.google.com/machine-learning/crash-course
-7. https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
+1. Machine Learning - https://www.coursera.org/specializations/machine-learning-introduction
+2. Deep Learning - https://www.coursera.org/specializations/deep-learning
+3. Machine Learning - https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw
+4. Practical ML - https://github.com/ageron/handson-ml/tree/master
+5. ML Engineer Roadmap - https://github.com/enkaranfiles/Machine-Learning-Engineer-Roadmap?tab=readme-ov-file#supervised-learning ****
+6. Machine Learning - https://developers.google.com/machine-learning/crash-course
+7. Neural Networks - https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
 
+# Main Sources
+https://mlengineerinsights.substack.com/p/top-resources-to-get-started-in-ml-8be?triedRedirect=true
+
+1. LLM Bootcamp - https://areganti.notion.site/Applied-LLMs-Mastery-2024-562ddaa27791463e9a1286199325045c
+2. NLP Course - https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt
+3. 
 
 
 # Topics
