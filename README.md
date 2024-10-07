@@ -14,8 +14,6 @@ https://mlengineerinsights.substack.com/p/top-resources-to-get-started-in-ml-8be
 
 1. LLM Bootcamp - https://areganti.notion.site/Applied-LLMs-Mastery-2024-562ddaa27791463e9a1286199325045c
 2. NLP Course - https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt
-3. 
-
 
 # Topics
 
