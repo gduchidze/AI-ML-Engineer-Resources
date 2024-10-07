@@ -5,7 +5,7 @@
 2. Deep Learning - https://www.coursera.org/specializations/deep-learning
 3. Machine Learning - https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw
 4. Practical ML - https://github.com/ageron/handson-ml/tree/master
-5. ML Engineer Roadmap - https://github.com/enkaranfiles/Machine-Learning-Engineer-Roadmap?tab=readme-ov-file#supervised-learning ***
+5. ML Engineer Roadmap - https://github.com/enkaranfiles/Machine-Learning-Engineer-Roadmap?tab=readme-ov-file#supervised-learning **
 6. Machine Learning - https://developers.google.com/machine-learning/crash-course
 7. Neural Networks - https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
 
