@@ -81,7 +81,7 @@ Amazon Transcribe - Speech to Text
 AWS Polly - Voice Analysis
 Amazon Lex - Natural Language Understanding
 Amazon SageMaker - Building and deploying models
-Deploy ML models using Flask
+
 
 
 
