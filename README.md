@@ -4,8 +4,8 @@
 - [Learning Resources](#learning-resources)
 
   - [Mathematics for Machine Learning](#mathematics-for-machine-learning)
-  - [Software Engineering](#software-engineering)
   - [Machine Learning](#machine-learning)
+  - [Software Engineering](#software-engineering)
   - [Deep Learning](#deep-learning)
   - [LLM, Generative AI & NLP](#llm-generative-ai--nlp)
   - [Projects and Resources](#projects-and-resources)
