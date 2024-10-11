@@ -93,6 +93,7 @@
 2. [Hugging Face NLP Course(Must)](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
 3. [5 Day LLM Course(Must)](https://github.com/mlabonne/llm-course?tab=readme-ov-file)
 4. [LLM Bootcamp(Must)](https://github.com/MBAHGAT2000/Large-Language-Models-LLMs-with-roadmaps?tab=readme-ov-file)
+5. [Awesome LLM app examples](https://github.com/gduchidze/awesome-llm-apps)
 
 # MLOps
 - [Implementing MLOps in the Enterprise](https://www.oreilly.com/library/view/implementing-mlops-in/9781098136574/?_gl=1*ev4ki1*_ga*NzU5Nzc0MzUuMTcwMTUwNjM0MQ..*_ga_092EL089CH*MTcwMTgwNzMxMy4zLjEuMTcwMTgwNzQ1OS41Ni4wLjA.)
