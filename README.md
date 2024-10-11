@@ -7,9 +7,9 @@
   - [Software Engineering](#software-engineering)
   - [Deep Learning](#deep-learning)
   - [LLM, Generative AI & NLP](#llm-generative-ai--nlp)
-  - [Projects and Resources](#projects-and-resources)
   - [MLOps](#MLOps)
   - [MLOps Tools](#MLOps-Tools)
+  - [Projects](#projects)
   - [Datasets](#datasets)
 
 # Mathematics for Machine Learning
@@ -122,7 +122,15 @@
 - [tecton](https://www.tecton.ai/feature-store/) - a feature platform designed to manage the end-to-end lifecycle of features
 - [feast](https://github.com/feast-dev/feast) - an open-source feature store with a centralized and scalable platform for managing, serving, and discovering features in MLOps workflows
 - [Paperspace](https://www.paperspace.com/artificial-intelligence) - a platform for building and scaling AI applications
-- [Charmed Kubeflow](https://charmed-kubeflow.io/) - The fully supported MLOps platform for any cloud 
+- [Charmed Kubeflow](https://charmed-kubeflow.io/) - The fully supported MLOps platform for any cloud
+ 
+
+# Projects
+- [ML Ops Projects](https://github.com/solygambas/mlops-projects)
+- [LLM Projects](https://github.com/machinelearningzuu/awesome-llm-projects)
+- [ML Ops Projects](https://bestprojectideas.com/mlops-projects-ideas/)
+
+
 
 # Datasets
 1. [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
