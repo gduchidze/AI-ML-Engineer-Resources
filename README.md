@@ -31,7 +31,7 @@
 
 # Software Engineering
 ### 1. Data Structures and Algorithms
-- [Algomap(fav)](algomap.io)
+- [Algomap(fav)](https://algomap.io/)
 - [Algorithms by Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 - [CS Dojo Data Structures and Algorithms](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
 
