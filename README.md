@@ -21,7 +21,7 @@
 
 ## Learning Resources:
 
-## Mathematics for Machine Learning
+# Mathematics for Machine Learning
 ### 1. Linear Algebra
 - [Essence of Linear Algebra by 3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Linear Algebra By Khan Academy](https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0)
@@ -35,7 +35,7 @@
 - [Probability by Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk&list=PLC58778F28211FA19)
 - [Think Stats (Book)](https://greenteapress.com/thinkstats/)
 
-### Machine Learning
+# Machine Learning
 1. [Coursera Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 2. [Machine Learning with Python (YouTube)](https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)
 3. [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
@@ -43,24 +43,24 @@
 5. [Scikit-Learn Course - Machine Learning in Python Tutorial](https://www.youtube.com/watch?v=pqNCD_5r0IU)
 6. [Machine Learning with Scikit-Learn, Part 1 | SciPy 2018 Tutorial](https://www.youtube.com/watch?v=4PXAztQtoTg)
 
-## Software Engineering
-# 1. Data Structures and Algorithms
+# Software Engineering
+### 1. Data Structures and Algorithms
 - [Algorithms by Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 - [CS Dojo Data Structures and Algorithms](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
 - [Dynamic Programming](https://www.youtube.com/watch?v=jTjRGe0wRvI&list=PLVrpF4r7WIhTT1hJqZmjP10nxsmrbRvlf)
 
-# 2. OOP Concepts
+### 2. OOP Concepts
 - [Python OOP by Corey Schafer](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 - [C++ OOP by Derek Banas](https://www.youtube.com/watch?v=ZOKLjJF54Xc)
 
-# 3. Software Design and Architecture
+### 3. Software Design and Architecture
 - [Software Design using Python](https://www.youtube.com/watch?v=FLtqAi7WNBY&list=PLzMcBGfZo4-nVu4ANTe7NuU0Ny6_oyQmV)
 - [SOLID using Python](https://www.youtube.com/watch?v=acmPg6aV-Zs&list=PLyLkn_nipSjNVOpdOG-nETxKfgEpbubMQ)
 
-# 4. Design Patterns
+### 4. Design Patterns
 - [Design Patterns in Object Oriented Programming](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
 
-# 5. Databases and Query Languages
+### 5. Databases and Query Languages
 - [Redis Crash Course](https://www.youtube.com/watch?v=Hbt56gFj998)
 - [Introduction to NoSQL Database](https://www.youtube.com/watch?v=xQnIN9bW0og)
 - [Learning MySQL](https://www.youtube.com/watch?v=a9W7OpS4LfI&list=PLyuRouwmQCjlXvBkTfGeDTq79r9_GoMt9)
@@ -88,7 +88,7 @@
 - [Deploy Machine Learning Model using Flask](https://www.youtube.com/watch?v=UbCWoMf80PY)
 
 
-### Deep Learning 
+# Deep Learning 
 1. [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 2. [Deep Learning Course (YouTube)](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 3. [CS231n: Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
@@ -96,7 +96,7 @@
 5. [PyTorch Complete Beginner Course](https://www.youtube.com/watch?v=EMXfZB8FVUA&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
 6. [PyTorch Tutorials](https://www.youtube.com/watch?v=2S1dgHpqCdk&list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)
 
-### LLM, Generative AI & NLP
+# LLM, Generative AI & NLP
 1. [Applied LLMs Mastery 2024](https://areganti.notion.site/Applied-LLMs-Mastery-2024-562ddaa27791463e9a1286199325045c)
 2. [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
 
@@ -141,9 +141,9 @@
 - [Charmed Kubeflow](https://charmed-kubeflow.io/) - The fully supported MLOps platform for any cloud 
 
 
-## Datasets
+# Datasets
 1. [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 2. [70+ Machine Learning Datasets](https://data-flair.training/blogs/machine-learning-datasets/)
 
-## Road Maps
+# Road Maps
 - [Top Resources to Get Started in ML](https://mlengineerinsights.substack.com/p/top-resources-to-get-started-in-ml-8be?triedRedirect=true)
