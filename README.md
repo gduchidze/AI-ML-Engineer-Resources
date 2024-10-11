@@ -1,25 +1,16 @@
-# Giorgi Duchidze's Machine Learning Resources
+# AI/Machine Learning Engineer's Resources
 
 ## Table of Contents
 - [Learning Resources](#learning-resources)
-
   - [Mathematics for Machine Learning](#mathematics-for-machine-learning)
   - [Machine Learning](#machine-learning)
   - [Software Engineering](#software-engineering)
   - [Deep Learning](#deep-learning)
   - [LLM, Generative AI & NLP](#llm-generative-ai--nlp)
   - [Projects and Resources](#projects-and-resources)
-  - [ML Ops](#MLOps)
+  - [MLOps](#MLOps)
+  - [MLOps Tools](#MLOps-Tools)
   - [Datasets](#datasets)
-    
-- [Topics](#topics)
-  - [Machine Learning](#machine-learning-1)
-  - [Natural Language Processing](#natural-language-processing)
-  - [Deep Learning](#deep-learning-1)
-  - [Computer Vision](#computer-vision)
-  - [MLOps](#mlops)
-
-## Learning Resources:
 
 # Mathematics for Machine Learning
 ### 1. Linear Algebra
@@ -114,7 +105,7 @@
 - [Azure MLOps - DevOps for Machine Learning MG](https://www.youtube.com/playlist?list=PLiQS6N-W1p3m9squzZ2cPgGdH5SBhjY6f)
 - [MLOps1 (AWS)](https://www.edx.org/learn/amazon-web-services-aws/statistics-com-mlops1-aws-deploying-ai-ml-models-in-production-using-amazon-web-services)
 
-## ML Ops Tools
+## MLOps Tools
 
 - [mlflow](https://mlflow.org) - helps you manage core parts of the machine learning lifecycle.
 - [dagshub](https://dagshub.com) - a platform made for the machine learning community to track and version the data, models, experiments, ML pipelines, and code
