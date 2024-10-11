@@ -106,7 +106,6 @@
 - [MLOps1 (AWS)](https://www.edx.org/learn/amazon-web-services-aws/statistics-com-mlops1-aws-deploying-ai-ml-models-in-production-using-amazon-web-services)
 
 ## MLOps Tools
-
 - [mlflow](https://mlflow.org) - helps you manage core parts of the machine learning lifecycle.
 - [dagshub](https://dagshub.com) - a platform made for the machine learning community to track and version the data, models, experiments, ML pipelines, and code
 - [docker](https://www.docker.com) - an open platform for developing, shipping, and running applications
@@ -133,10 +132,6 @@
 - [Paperspace](https://www.paperspace.com/artificial-intelligence) - a platform for building and scaling AI applications
 - [Charmed Kubeflow](https://charmed-kubeflow.io/) - The fully supported MLOps platform for any cloud 
 
-
 # Datasets
 1. [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 2. [70+ Machine Learning Datasets](https://data-flair.training/blogs/machine-learning-datasets/)
-
-# Road Maps
-- [Top Resources to Get Started in ML](https://mlengineerinsights.substack.com/p/top-resources-to-get-started-in-ml-8be?triedRedirect=true)
