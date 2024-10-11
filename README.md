@@ -36,38 +36,39 @@
 - [Think Stats (Book)](https://greenteapress.com/thinkstats/)
 
 # Machine Learning
-1. [Coursera Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
+1. [Coursera Machine Learning Specialization(Fav)](https://www.coursera.org/specializations/machine-learning-introduction)
 2. [Machine Learning with Python (YouTube)](https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)
 3. [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
-4. [Hands-On Machine Learning Tasks](https://github.com/ageron/handson-ml/tree/master)
+4. [Hands-On Machine Learning Tasks(Fav)](https://github.com/ageron/handson-ml/tree/master)
 5. [Scikit-Learn Course - Machine Learning in Python Tutorial](https://www.youtube.com/watch?v=pqNCD_5r0IU)
 6. [Machine Learning with Scikit-Learn, Part 1 | SciPy 2018 Tutorial](https://www.youtube.com/watch?v=4PXAztQtoTg)
 
 # Software Engineering
 ### 1. Data Structures and Algorithms
+- [Algomap(fav)](algomap.io)
 - [Algorithms by Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 - [CS Dojo Data Structures and Algorithms](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
 - [Dynamic Programming](https://www.youtube.com/watch?v=jTjRGe0wRvI&list=PLVrpF4r7WIhTT1hJqZmjP10nxsmrbRvlf)
 
 ### 2. OOP Concepts
-- [Python OOP by Corey Schafer](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
+- [Python OOP by Corey Schafer(fav)](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 - [C++ OOP by Derek Banas](https://www.youtube.com/watch?v=ZOKLjJF54Xc)
 
 ### 3. Software Design and Architecture
-- [Software Design using Python](https://www.youtube.com/watch?v=FLtqAi7WNBY&list=PLzMcBGfZo4-nVu4ANTe7NuU0Ny6_oyQmV)
+- [Software Design using Python(fav)](https://www.youtube.com/watch?v=FLtqAi7WNBY&list=PLzMcBGfZo4-nVu4ANTe7NuU0Ny6_oyQmV)
 - [SOLID using Python](https://www.youtube.com/watch?v=acmPg6aV-Zs&list=PLyLkn_nipSjNVOpdOG-nETxKfgEpbubMQ)
 
 ### 4. Design Patterns
-- [Design Patterns in Object Oriented Programming](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
+- [Design Patterns in Object Oriented Programming(fav)](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
 
 ### 5. Databases and Query Languages
-- [Redis Crash Course](https://www.youtube.com/watch?v=Hbt56gFj998)
-- [Introduction to NoSQL Database](https://www.youtube.com/watch?v=xQnIN9bW0og)
+- [Redis Crash Course(fav)](https://www.youtube.com/watch?v=Hbt56gFj998)
+- [Introduction to NoSQL Database(fav)](https://www.youtube.com/watch?v=xQnIN9bW0og)
 - [Learning MySQL](https://www.youtube.com/watch?v=a9W7OpS4LfI&list=PLyuRouwmQCjlXvBkTfGeDTq79r9_GoMt9)
 
 ### 6. Continuous Integration
-- [What is Continuous Integration?](https://www.youtube.com/watch?v=1er2cjUq1UI)
-- [Understanding CI/CD](https://www.youtube.com/watch?v=l-wdLGYwlVc)
+- [What is Continuous Integration?(fav)](https://www.youtube.com/watch?v=1er2cjUq1UI)
+- [Understanding CI/CD(fav)](https://www.youtube.com/watch?v=l-wdLGYwlVc)
 
 ### 7. Testing
 - [Learn Pytest in 60 Minutes](https://www.youtube.com/watch?v=bbp_849-RZ4)
@@ -76,10 +77,10 @@
 ### 8. Cloud
 - [Introduction to Cloud](https://www.youtube.com/watch?v=usYySG1nbfI)
 - [AWS for Beginners](https://www.youtube.com/watch?v=k1RI5locZE4)
-- [AWS SageMaker for ML and DL](https://www.youtube.com/watch?v=LkR3GNDB0HI&list=PLZoTAELRMXVONh5mHrXowH6-dgyWoC_Ew)
+- [AWS SageMaker for ML and DL(fav)](https://www.youtube.com/watch?v=LkR3GNDB0HI&list=PLZoTAELRMXVONh5mHrXowH6-dgyWoC_Ew)
 
 ### 9. Containerization
-- [Docker for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo)
+- [Docker for Beginners(fav)](https://www.youtube.com/watch?v=fqMOX6JJhGo)
 - [Kubernetes Beginners Tutorials](https://www.youtube.com/watch?v=l_lWfipUimk&list=PLhW3qG5bs-L8EU_Oocu6RkNPpYpaamtXX)
 
 ### 10. API Development
@@ -89,16 +90,16 @@
 
 
 # Deep Learning 
-1. [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+1. [Coursera Deep Learning Specialization(fav)](https://www.coursera.org/specializations/deep-learning)
 2. [Deep Learning Course (YouTube)](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 3. [CS231n: Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
-4. [Neural Networks by 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-5. [PyTorch Complete Beginner Course](https://www.youtube.com/watch?v=EMXfZB8FVUA&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
+4. [Neural Networks by 3Blue1Brown(fav)](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+5. [PyTorch Complete Beginner Course(fav)](https://www.youtube.com/watch?v=EMXfZB8FVUA&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
 6. [PyTorch Tutorials](https://www.youtube.com/watch?v=2S1dgHpqCdk&list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)
 
 # LLM, Generative AI & NLP
 1. [Applied LLMs Mastery 2024](https://areganti.notion.site/Applied-LLMs-Mastery-2024-562ddaa27791463e9a1286199325045c)
-2. [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
+2. [Hugging Face NLP Course(Must)](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
 3. [5 Day LLM Course(Must)](https://github.com/mlabonne/llm-course?tab=readme-ov-file)
 4. [LLM Bootcamp(Must)](https://github.com/MBAHGAT2000/Large-Language-Models-LLMs-with-roadmaps?tab=readme-ov-file)
 
