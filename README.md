@@ -23,11 +23,11 @@
 - [Statistics Fundamentals by StatsQuest](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
 
 # Machine Learning
-1. [Coursera Machine Learning Specialization(Fav)](https://www.coursera.org/specializations/machine-learning-introduction)
-2. [Machine Learning with Python (YouTube)](https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)
-3. [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
-4. [Hands-On Machine Learning Tasks(Fav)](https://github.com/ageron/handson-ml/tree/master)
-5. [Scikit-Learn Course - Machine Learning in Python Tutorial](https://www.youtube.com/watch?v=pqNCD_5r0IU)
+- [Coursera Machine Learning Specialization(Fav)](https://www.coursera.org/specializations/machine-learning-introduction)
+- [Machine Learning with Python (YouTube)](https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)
+- [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+- [Hands-On Machine Learning Tasks(Fav)](https://github.com/ageron/handson-ml/tree/master)
+- [Scikit-Learn Course - Machine Learning in Python Tutorial](https://www.youtube.com/watch?v=pqNCD_5r0IU)
 
 # Software Engineering
 ### 1. Data Structures and Algorithms
@@ -80,11 +80,11 @@
 6. [PyTorch Tutorials](https://www.youtube.com/watch?v=2S1dgHpqCdk&list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)
 
 # LLM, Generative AI & NLP
-1. [Applied LLMs Mastery 2024](https://areganti.notion.site/Applied-LLMs-Mastery-2024-562ddaa27791463e9a1286199325045c)
-2. [Hugging Face NLP Course(Must)](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
-3. [5 Day LLM Course(Must)](https://github.com/mlabonne/llm-course?tab=readme-ov-file)
-4. [LLM Bootcamp(Must)](https://github.com/MBAHGAT2000/Large-Language-Models-LLMs-with-roadmaps?tab=readme-ov-file)
-5. [Awesome LLM app examples](https://github.com/gduchidze/awesome-llm-apps)
+- [Applied LLMs Mastery 2024](https://areganti.notion.site/Applied-LLMs-Mastery-2024-562ddaa27791463e9a1286199325045c)
+- [Hugging Face NLP Course(Must)](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
+- [5 Day LLM Course(Must)](https://github.com/mlabonne/llm-course?tab=readme-ov-file)
+- [LLM Bootcamp(Must)](https://github.com/MBAHGAT2000/Large-Language-Models-LLMs-with-roadmaps?tab=readme-ov-file)
+- [Awesome LLM app examples](https://github.com/gduchidze/awesome-llm-apps)
 
 # MLOps
 - [Implementing MLOps in the Enterprise](https://www.oreilly.com/library/view/implementing-mlops-in/9781098136574/?_gl=1*ev4ki1*_ga*NzU5Nzc0MzUuMTcwMTUwNjM0MQ..*_ga_092EL089CH*MTcwMTgwNzMxMy4zLjEuMTcwMTgwNzQ1OS41Ni4wLjA.)
@@ -124,14 +124,11 @@
 - [Paperspace](https://www.paperspace.com/artificial-intelligence) - a platform for building and scaling AI applications
 - [Charmed Kubeflow](https://charmed-kubeflow.io/) - The fully supported MLOps platform for any cloud
  
-
 # Projects
 - [ML Ops Projects](https://github.com/solygambas/mlops-projects)
 - [LLM Projects](https://github.com/machinelearningzuu/awesome-llm-projects)
 - [ML Ops Projects](https://bestprojectideas.com/mlops-projects-ideas/)
 
-
-
 # Datasets
-1. [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
-2. [70+ Machine Learning Datasets](https://data-flair.training/blogs/machine-learning-datasets/)
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+- [70+ Machine Learning Datasets](https://data-flair.training/blogs/machine-learning-datasets/)
