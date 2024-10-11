@@ -15,16 +15,12 @@
 # Mathematics for Machine Learning
 ### 1. Linear Algebra
 - [Essence of Linear Algebra by 3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-- [Linear Algebra By Khan Academy](https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0)
 
 ### 2. Calculus
 - [Essence of Calculus By 3Blue1Brown](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-- [Calculus by Professor Leonard](https://www.youtube.com/watch?v=fYyARMqiaag&list=PLF797E961509B4EB5)
 
 ### 3. Probability and Statistics
 - [Statistics Fundamentals by StatsQuest](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
-- [Probability by Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk&list=PLC58778F28211FA19)
-- [Think Stats (Book)](https://greenteapress.com/thinkstats/)
 
 # Machine Learning
 1. [Coursera Machine Learning Specialization(Fav)](https://www.coursera.org/specializations/machine-learning-introduction)
@@ -32,18 +28,15 @@
 3. [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 4. [Hands-On Machine Learning Tasks(Fav)](https://github.com/ageron/handson-ml/tree/master)
 5. [Scikit-Learn Course - Machine Learning in Python Tutorial](https://www.youtube.com/watch?v=pqNCD_5r0IU)
-6. [Machine Learning with Scikit-Learn, Part 1 | SciPy 2018 Tutorial](https://www.youtube.com/watch?v=4PXAztQtoTg)
 
 # Software Engineering
 ### 1. Data Structures and Algorithms
 - [Algomap(fav)](algomap.io)
 - [Algorithms by Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 - [CS Dojo Data Structures and Algorithms](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
-- [Dynamic Programming](https://www.youtube.com/watch?v=jTjRGe0wRvI&list=PLVrpF4r7WIhTT1hJqZmjP10nxsmrbRvlf)
 
 ### 2. OOP Concepts
 - [Python OOP by Corey Schafer(fav)](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
-- [C++ OOP by Derek Banas](https://www.youtube.com/watch?v=ZOKLjJF54Xc)
 
 ### 3. Software Design and Architecture
 - [Software Design using Python(fav)](https://www.youtube.com/watch?v=FLtqAi7WNBY&list=PLzMcBGfZo4-nVu4ANTe7NuU0Ny6_oyQmV)
@@ -63,7 +56,6 @@
 
 ### 7. Testing
 - [Learn Pytest in 60 Minutes](https://www.youtube.com/watch?v=bbp_849-RZ4)
-- [Python Testing with pytest: Simple, Rapid, Effective, and Scalable (Book)](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409)
 
 ### 8. Cloud
 - [Introduction to Cloud](https://www.youtube.com/watch?v=usYySG1nbfI)
@@ -78,7 +70,6 @@
 - [What is an API?](https://www.youtube.com/watch?v=s7wmiS2mSXY)
 - [Building a Flask REST API](https://www.youtube.com/watch?v=GMppyAPbLYk)
 - [Deploy Machine Learning Model using Flask](https://www.youtube.com/watch?v=UbCWoMf80PY)
-
 
 # Deep Learning 
 1. [Coursera Deep Learning Specialization(fav)](https://www.coursera.org/specializations/deep-learning)
