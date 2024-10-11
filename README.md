@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Learning Resources](#learning-resources)
 
-  -[Mathematics for Machine Learning](#mathematics-for-machine-learning)
+  - [Mathematics for Machine Learning](#mathematics-for-machine-learning)
   - [Software Engineering](#software-engineering)
   - [Machine Learning](#machine-learning)
   - [Deep Learning](#deep-learning)
