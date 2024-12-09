@@ -57,8 +57,8 @@
 
 ### 7. Cloud
 - [Introduction to Cloud](https://www.youtube.com/watch?v=usYySG1nbfI)
-- [AWS for Beginners](https://www.youtube.com/watch?v=k1RI5locZE4)
-- [AWS SageMaker for ML and DL(fav)](https://www.youtube.com/watch?v=LkR3GNDB0HI&list=PLZoTAELRMXVONh5mHrXowH6-dgyWoC_Ew)
+- [ML Model Deployment on EC2](https://www.youtube.com/watch?v=kQ9qiIzsFxM)
+- [AWS SageMaker for ML and DL](https://www.youtube.com/watch?v=LkR3GNDB0HI&list=PLZoTAELRMXVONh5mHrXowH6-dgyWoC_Ew)
 
 ### 8. Containerization
 - [Docker for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo)
