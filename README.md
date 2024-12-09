@@ -65,6 +65,7 @@
 - [Docker for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo)
 - [Docker for Begginer(Georgian)](https://www.youtube.com/watch?v=MrHBdMWtFHA&list=PLbZtgfvYfOp0IHy5bvxgUFJkCWY4yVMp6)
 - [Kubernetes Beginners Tutorials(Georgian)](https://www.youtube.com/watch?v=GTY2HuMQAp0&list=PLbZtgfvYfOp0C-capcuLlV4WtqSEkXrqw)
+- [Kubernetes for ML](https://www.youtube.com/watch?v=6wWdNg0GMV4)
 
 ### 9. API Development
 - [What is an API?](https://www.youtube.com/watch?v=s7wmiS2mSXY)
@@ -93,13 +94,12 @@
 - [LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
 
 # MLOps
-- [Implementing MLOps in the Enterprise](https://www.oreilly.com/library/view/implementing-mlops-in/9781098136574/?_gl=1*ev4ki1*_ga*NzU5Nzc0MzUuMTcwMTUwNjM0MQ..*_ga_092EL089CH*MTcwMTgwNzMxMy4zLjEuMTcwMTgwNzQ1OS41Ni4wLjA.)
 - [Machine Learning Engineering for Production (MLOps)](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK)
 - [MLOps Zoomcamp 2022](https://www.youtube.com/playlist?list=PL3MmuxUbc_hLG1MoGNxJ9DmQSSM2bEdQT)
-- [MLOps Tutorials DVCorg](https://www.youtube.com/playlist?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz)
 - [MLOps Hands On Implementation](https://www.youtube.com/playlist?list=PLwFaZuSL_mfou923msxLWAqxkj6Zcnt29)
 - [MLOps - Machine Learning Operations](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5a6OA473MA4KnOXWnUyV_J)
 - [Azure MLOps - DevOps for Machine Learning MG](https://www.youtube.com/playlist?list=PLiQS6N-W1p3m9squzZ2cPgGdH5SBhjY6f)
+- [LLM Ops](https://www.youtube.com/watch?v=gtQfBwerYqw&list=PLmQAMKHKeLZ_77CBNeOoUyZUMzlqX-fpe&index=1)
 - [MLOps1 (AWS)](https://www.edx.org/learn/amazon-web-services-aws/statistics-com-mlops1-aws-deploying-ai-ml-models-in-production-using-amazon-web-services)
 
 # ML/LLM System Design Cases
