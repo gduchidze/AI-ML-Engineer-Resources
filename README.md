@@ -8,7 +8,6 @@
   - [Deep Learning](#deep-learning)
   - [LLM, Generative AI & NLP](#llm-generative-ai--nlp)
   - [MLOps](#MLOps)
-  - [MLOps Tools](#MLOps-Tools)
   - [Projects](#projects)
   - [Datasets](#datasets)
 
@@ -46,43 +45,43 @@
 - [Design Patterns in Object Oriented Programming(fav)](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
 
 ### 5. Databases and Query Languages
-- [Redis Crash Course(fav)](https://www.youtube.com/watch?v=Hbt56gFj998)
-- [Introduction to NoSQL Database(fav)](https://www.youtube.com/watch?v=xQnIN9bW0og)
-- [Learning MySQL](https://www.youtube.com/watch?v=a9W7OpS4LfI&list=PLyuRouwmQCjlXvBkTfGeDTq79r9_GoMt9)
+- [Redis Crash Course](https://www.youtube.com/watch?v=jgpVdJB2sKQ&t=35s)
+- [Vector Databases(Read Pinecone or Qdrant Doc))](https://www.youtube.com/watch?v=8KrTO9bS91s)
+- [MongoDB](https://learn.mongodb.com/learning-paths/introduction-to-mongodb)
+- [DynamoDB](https://www.youtube.com/watch?v=2k2GINpO308)
+- [Learning MySQL(Georgian)](https://www.youtube.com/watch?v=8XeITgbQQR8&list=PLbZtgfvYfOp1h9CWlMMW2EOl5wzv4o6F0)
 
 ### 6. Continuous Integration
-- [What is Continuous Integration?(fav)](https://www.youtube.com/watch?v=1er2cjUq1UI)
+- [What is Continuous Integration?](https://www.youtube.com/watch?v=1er2cjUq1UI)
 - [Understanding CI/CD(fav)](https://www.youtube.com/watch?v=l-wdLGYwlVc)
 
-### 7. Testing
-- [Learn Pytest in 60 Minutes](https://www.youtube.com/watch?v=bbp_849-RZ4)
-
-### 8. Cloud
+### 7. Cloud
 - [Introduction to Cloud](https://www.youtube.com/watch?v=usYySG1nbfI)
 - [AWS for Beginners](https://www.youtube.com/watch?v=k1RI5locZE4)
 - [AWS SageMaker for ML and DL(fav)](https://www.youtube.com/watch?v=LkR3GNDB0HI&list=PLZoTAELRMXVONh5mHrXowH6-dgyWoC_Ew)
 
-### 9. Containerization
-- [Docker for Beginners(fav)](https://www.youtube.com/watch?v=fqMOX6JJhGo)
-- [Kubernetes Beginners Tutorials](https://www.youtube.com/watch?v=l_lWfipUimk&list=PLhW3qG5bs-L8EU_Oocu6RkNPpYpaamtXX)
+### 8. Containerization
+- [Docker for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo)
+- [Docker for Begginer(Georgian)](https://www.youtube.com/watch?v=MrHBdMWtFHA&list=PLbZtgfvYfOp0IHy5bvxgUFJkCWY4yVMp6)
+- [Kubernetes Beginners Tutorials(Georgian)](https://www.youtube.com/watch?v=GTY2HuMQAp0&list=PLbZtgfvYfOp0C-capcuLlV4WtqSEkXrqw)
 
-### 10. API Development
+### 9. API Development
 - [What is an API?](https://www.youtube.com/watch?v=s7wmiS2mSXY)
 - [Building a Flask REST API](https://www.youtube.com/watch?v=GMppyAPbLYk)
 - [Deploy Machine Learning Model using Flask](https://www.youtube.com/watch?v=UbCWoMf80PY)
 
 # Deep Learning 
-1. [Coursera Deep Learning Specialization(fav)](https://www.coursera.org/specializations/deep-learning)
+1. [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 2. [Deep Learning Course (YouTube)](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 3. [CS231n: Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
-4. [Neural Networks by 3Blue1Brown(fav)](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-5. [PyTorch Complete Beginner Course(fav)](https://www.youtube.com/watch?v=EMXfZB8FVUA&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
+4. [Neural Networks by 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+5. [PyTorch Complete Beginner Course](https://www.youtube.com/watch?v=EMXfZB8FVUA&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
 
 # LLM, Generative AI & NLP
 - [Applied LLMs Mastery 2024](https://areganti.notion.site/Applied-LLMs-Mastery-2024-562ddaa27791463e9a1286199325045c)
-- [Hugging Face NLP Course(Must)](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
-- [5 Day LLM Course(Must)](https://github.com/mlabonne/llm-course?tab=readme-ov-file)
-- [LLM Bootcamp(Must)](https://github.com/MBAHGAT2000/Large-Language-Models-LLMs-with-roadmaps?tab=readme-ov-file)
+- [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
+- [5 Day LLM Course](https://github.com/mlabonne/llm-course?tab=readme-ov-file)
+- [LLM Bootcamp](https://github.com/MBAHGAT2000/Large-Language-Models-LLMs-with-roadmaps?tab=readme-ov-file)
 - [Awesome LLM app examples](https://github.com/gduchidze/awesome-llm-apps)
 - [Master Recommendation Systems](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-15+V1)
 
@@ -100,7 +99,7 @@
 - [Azure MLOps - DevOps for Machine Learning MG](https://www.youtube.com/playlist?list=PLiQS6N-W1p3m9squzZ2cPgGdH5SBhjY6f)
 - [MLOps1 (AWS)](https://www.edx.org/learn/amazon-web-services-aws/statistics-com-mlops1-aws-deploying-ai-ml-models-in-production-using-amazon-web-services)
 
-# ML/LLM System Design Cases(Must)
+# ML/LLM System Design Cases
 - [ML and LLM System Design Cases)](https://datascienceschool.com/ml-system-design)
 
 #Other
