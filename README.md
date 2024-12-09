@@ -88,6 +88,10 @@
 - [End-to-End Gen AI App](https://www.youtube.com/watch?v=D_VQYTczBpc)
 - [5 Day Gen AI Intensive Course](https://www.linkedin.com/posts/kashnitskiy_materials-of-the-5-day-gen-ai-intensive-course-activity-7264376444485619712-dkeY?utm_source=share&utm_medium=member_desktop)
 
+# LLM Framework 
+- [Langchain](https://learn.deeplearning.ai/courses/langchain/lesson/1/introduction)
+- [LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
+
 # MLOps
 - [Implementing MLOps in the Enterprise](https://www.oreilly.com/library/view/implementing-mlops-in/9781098136574/?_gl=1*ev4ki1*_ga*NzU5Nzc0MzUuMTcwMTUwNjM0MQ..*_ga_092EL089CH*MTcwMTgwNzMxMy4zLjEuMTcwMTgwNzQ1OS41Ni4wLjA.)
 - [Machine Learning Engineering for Production (MLOps)](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK)
