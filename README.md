@@ -57,6 +57,7 @@
 
 ### 7. Cloud
 - [Introduction to Cloud](https://www.youtube.com/watch?v=usYySG1nbfI)
+- [AI Engineer Services - Microsoft Azure](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification)
 - [ML Model Deployment on EC2](https://www.youtube.com/watch?v=kQ9qiIzsFxM)
 - [AWS SageMaker for ML and DL](https://www.youtube.com/watch?v=LkR3GNDB0HI&list=PLZoTAELRMXVONh5mHrXowH6-dgyWoC_Ew)
 
@@ -84,8 +85,6 @@
 - [LLM Bootcamp](https://github.com/MBAHGAT2000/Large-Language-Models-LLMs-with-roadmaps?tab=readme-ov-file)
 - [Awesome LLM app examples](https://github.com/gduchidze/awesome-llm-apps)
 - [Master Recommendation Systems](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-15+V1)
-
-# Generative AI
 - [End-to-End Gen AI App](https://www.youtube.com/watch?v=D_VQYTczBpc)
 - [5 Day Gen AI Intensive Course](https://www.linkedin.com/posts/kashnitskiy_materials-of-the-5-day-gen-ai-intensive-course-activity-7264376444485619712-dkeY?utm_source=share&utm_medium=member_desktop)
 
