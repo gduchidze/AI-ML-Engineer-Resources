@@ -22,10 +22,11 @@
 ### 3. Probability and Statistics
 - [Statistics Fundamentals by StatsQuest](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
 
-# Machine Learning
+### Machine Learning
 - [Coursera Machine Learning Specialization(Fav)](https://www.coursera.org/specializations/machine-learning-introduction)
-- [Leetcode style for ML](https://www.deep-ml.com/)
 - [Machine Learning with Python (YouTube)](https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)
+#### Practice ML:
+- [Leetcode style for ML](https://www.deep-ml.com/)
 - [Hands-On Machine Learning Tasks(Fav)](https://github.com/ageron/handson-ml/tree/master)
 
 # Software Engineering
