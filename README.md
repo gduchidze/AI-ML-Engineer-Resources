@@ -1,6 +1,6 @@
 # AI/Machine Learning Engineer's Resources
 
-### 1. Linear Algebra, Calculus, Probability and Statistics
+### Math for Machine Learning
 - [Essence of Linear Algebra by 3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Essence of Calculus By 3Blue1Brown](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - [Statistics Fundamentals by StatsQuest](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
@@ -13,7 +13,7 @@
 - [Hands-On Machine Learning Tasks](https://github.com/ageron/handson-ml/tree/master)
 
 
-# Software Engineering Topics
+### Software Engineering Topics
 - [Algomap](https://algomap.io/)
 - [Algorithms by Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 - [CS Dojo Data Structures and Algorithms](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
