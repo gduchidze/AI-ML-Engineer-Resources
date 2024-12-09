@@ -22,27 +22,27 @@
 - [Statistics Fundamentals by StatsQuest](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
 
 ### Machine Learning
-- [Coursera Machine Learning Specialization(Fav)](https://www.coursera.org/specializations/machine-learning-introduction)
+- [Coursera Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 - [Machine Learning with Python (YouTube)](https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)
 #### Practice ML:
 - [Leetcode style for ML](https://www.deep-ml.com/)
-- [Hands-On Machine Learning Tasks(Fav)](https://github.com/ageron/handson-ml/tree/master)
+- [Hands-On Machine Learning Tasks](https://github.com/ageron/handson-ml/tree/master)
 
 # Software Engineering
 ### 1. Data Structures and Algorithms
-- [Algomap(fav)](https://algomap.io/)
+- [Algomap](https://algomap.io/)
 - [Algorithms by Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 - [CS Dojo Data Structures and Algorithms](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
 
 ### 2. OOP Concepts
-- [Python OOP by Corey Schafer(fav)](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
+- [Python OOP by Corey Schafer](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 
 ### 3. Software Design and Architecture
-- [Software Design using Python(fav)](https://www.youtube.com/watch?v=FLtqAi7WNBY&list=PLzMcBGfZo4-nVu4ANTe7NuU0Ny6_oyQmV)
+- [Software Design using Python](https://www.youtube.com/watch?v=FLtqAi7WNBY&list=PLzMcBGfZo4-nVu4ANTe7NuU0Ny6_oyQmV)
 - [SOLID using Python](https://www.youtube.com/watch?v=acmPg6aV-Zs&list=PLyLkn_nipSjNVOpdOG-nETxKfgEpbubMQ)
 
 ### 4. Design Patterns
-- [Design Patterns in Object Oriented Programming(fav)](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
+- [Design Patterns in Object Oriented Programming](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
 
 ### 5. Databases and Query Languages
 - [Redis Crash Course](https://www.youtube.com/watch?v=jgpVdJB2sKQ&t=35s)
@@ -53,7 +53,7 @@
 
 ### 6. Continuous Integration
 - [What is Continuous Integration?](https://www.youtube.com/watch?v=1er2cjUq1UI)
-- [Understanding CI/CD(fav)](https://www.youtube.com/watch?v=l-wdLGYwlVc)
+- [Understanding CI/CD](https://www.youtube.com/watch?v=l-wdLGYwlVc)
 
 ### 7. Cloud
 - [Introduction to Cloud](https://www.youtube.com/watch?v=usYySG1nbfI)
