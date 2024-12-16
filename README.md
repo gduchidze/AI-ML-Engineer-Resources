@@ -67,6 +67,7 @@
 - [Kubernetes for ML](https://www.youtube.com/watch?v=6wWdNg0GMV4)
 
 ### MLOps
+- [ML Ops Coding Course](https://mlops-coding-course.fmind.dev/)
 - [Machine Learning Engineering for Production (MLOps)](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK)
 - [MLOps Zoomcamp 2022](https://www.youtube.com/playlist?list=PL3MmuxUbc_hLG1MoGNxJ9DmQSSM2bEdQT)
 - [MLOps Hands On Implementation](https://www.youtube.com/playlist?list=PLwFaZuSL_mfou923msxLWAqxkj6Zcnt29)
@@ -74,6 +75,9 @@
 - [Azure MLOps - DevOps for Machine Learning MG](https://www.youtube.com/playlist?list=PLiQS6N-W1p3m9squzZ2cPgGdH5SBhjY6f)
 - [LLM Ops](https://www.youtube.com/watch?v=gtQfBwerYqw&list=PLmQAMKHKeLZ_77CBNeOoUyZUMzlqX-fpe&index=1)
 - [MLOps1 (AWS)](https://www.edx.org/learn/amazon-web-services-aws/statistics-com-mlops1-aws-deploying-ai-ml-models-in-production-using-amazon-web-services)
+
+### Data Engineering
+- [Data Engineering Bootcamp](https://bootcamp.techcreator.io/)
 
 ### ML/LLM System Design Cases
 - [ML and LLM System Design Cases)](https://datascienceschool.com/ml-system-design)
@@ -86,6 +90,10 @@
 ### Datasets
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [70+ Machine Learning Datasets](https://data-flair.training/blogs/machine-learning-datasets/)
+
+# Copilots
+- Cursor
+- [Neo AI Agent](https://heyneo.so/blog)
 
 ### Other Topics
 - [Become Create Engineering Leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader)
