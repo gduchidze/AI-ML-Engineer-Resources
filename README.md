@@ -1,5 +1,8 @@
 # AI/Machine Learning Engineer's Resources
 
+# Additional The Best Matterials
+- [Articles and summarized topics from famous courses ](https://aman.ai/)
+
 ### Math for Machine Learning
 - [Essence of Linear Algebra by 3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Essence of Calculus By 3Blue1Brown](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
