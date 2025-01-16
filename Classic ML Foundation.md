@@ -1,4 +1,4 @@
-1. Fundamentals of Machine Learning
+# 1. Fundamentals of Machine Learning
 
 Supervised vs. Unsupervised Learning
 
@@ -9,7 +9,7 @@ Overfitting, Underfitting, and Regularization
 Bias-Variance Tradeoff
 
 
-2. Data Preparation and Feature Engineering
+# 2. Data Preparation and Feature Engineering
 
 Data Cleaning (Handling Missing Values and outliers)
 
@@ -20,7 +20,7 @@ Feature Selection and Dimensionality Reduction
 Encoding Categorical Variables
 
 
-3. Algorithms and Model Training
+# 3. Algorithms and Model Training
 
 Linear Models (Linear Regression, Logistic Regression)
 
@@ -31,7 +31,7 @@ Neural Networks (ANN, CNN, RNN)
 Optimization Techniques
 
 
-4. Model Evaluation and Tuning
+# 4. Model Evaluation and Tuning
 
 Cross-Validation (K-Fold, Leave-One-Out)
 
@@ -42,7 +42,7 @@ Hyperparameter Tuning (GridSearch, RandomSearch, etc.)
 Handling Imbalanced Datasets
 
 
-5. Machine Learning in Production - The Most important one!
+# 5. Machine Learning in Production - The Most important one!
 
 Model Deployment (StreamLit, Azure ML, AWS SageMaker)
 
