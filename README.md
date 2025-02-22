@@ -3,6 +3,7 @@
 # Additional The Best Matterials
 - [Articles and summarized topics from famous courses ](https://aman.ai/)
 - [Nvidia Free Courses](https://sp-events.courses.nvidia.com/dli-india25?ncid=ref-inpa-419622)
+- [Free Books Website](https://ad0x99.notion.site/)
 
 ### Math for Machine Learning
 - [Essence of Linear Algebra by 3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
