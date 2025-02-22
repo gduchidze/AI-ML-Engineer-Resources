@@ -58,7 +58,7 @@
 - [DynamoDB](https://www.youtube.com/watch?v=2k2GINpO308)
 - [Learning MySQL(Georgian)](https://www.youtube.com/watch?v=8XeITgbQQR8&list=PLbZtgfvYfOp1h9CWlMMW2EOl5wzv4o6F0)
 
-### Cloud/CI CD/Conteinerization
+### Cloud/CI CD/Conteinerization, System Design
 - [What is Continuous Integration?](https://www.youtube.com/watch?v=1er2cjUq1UI)
 - [Understanding CI/CD](https://www.youtube.com/watch?v=l-wdLGYwlVc)
 - [Introduction to Cloud](https://www.youtube.com/watch?v=usYySG1nbfI)
@@ -69,6 +69,7 @@
 - [Docker for Begginer(Georgian)](https://www.youtube.com/watch?v=MrHBdMWtFHA&list=PLbZtgfvYfOp0IHy5bvxgUFJkCWY4yVMp6)
 - [Kubernetes Beginners Tutorials(Georgian)](https://www.youtube.com/watch?v=GTY2HuMQAp0&list=PLbZtgfvYfOp0C-capcuLlV4WtqSEkXrqw)
 - [Kubernetes for ML](https://www.youtube.com/watch?v=6wWdNg0GMV4)
+- [System Design](https://www.educative.io/courses/grokking-the-system-design-interview)
 
 ### MLOps
 - [ML Ops Coding Course](https://mlops-coding-course.fmind.dev/)
@@ -101,3 +102,7 @@
 
 ### Other Topics
 - [Become Create Engineering Leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader)
+
+### ETC
+- [Google NotebookLM](https://notebooklm.google.com/)
+- [For Files Download](https://filecr.com/en/)
