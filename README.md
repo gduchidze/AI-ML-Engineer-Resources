@@ -17,7 +17,6 @@
 - [Leetcode style for ML](https://www.deep-ml.com/)
 - [Hands-On Machine Learning Tasks](https://github.com/ageron/handson-ml/tree/master)
 
-
 ### Software Engineering Topics
 - [Algomap](https://algomap.io/)
 - [Algorithms by Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
