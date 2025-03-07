@@ -106,3 +106,4 @@
 ### ETC
 - [Google NotebookLM](https://notebooklm.google.com/)
 - [For Files Download](https://filecr.com/en/)
+- [Go Lang](https://go.dev/tour/list)
