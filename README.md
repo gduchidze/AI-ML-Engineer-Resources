@@ -104,6 +104,9 @@
 - [Become Create Engineering Leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader)
 - [JobHunting](https://www.yuan-meng.com/posts/mle_interviews/?authuser=0)
 - https://huyenchip.com/ml-interviews-book/contents/1.1.2.1-research-vs.-applied-research.html
+- https://mega.nz/folder/xB0UhLpR#EJaBhdzaf8AYWEifoQe9Gg
+- https://drive.google.com/drive/folders/1TPfLCV-v9B_94dXNFO9zn5E4Ji-TyvF2
+- 
 
 ### ETC
 - [Google NotebookLM](https://notebooklm.google.com/)
