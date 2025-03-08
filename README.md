@@ -102,6 +102,7 @@
 
 ### Other Topics
 - [Become Create Engineering Leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader)
+- [JobHunting](https://www.yuan-meng.com/posts/mle_interviews/?authuser=0)
 
 ### ETC
 - [Google NotebookLM](https://notebooklm.google.com/)
