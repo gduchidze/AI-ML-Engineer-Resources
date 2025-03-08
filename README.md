@@ -100,6 +100,9 @@
 - Cursor
 - [Neo AI Agent](https://heyneo.so/blog)
 
+### Papers
+- https://magazine.sebastianraschka.com/p/understanding-large-language-models
+
 ### Other Topics
 - [Become Create Engineering Leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader)
 - [JobHunting](https://www.yuan-meng.com/posts/mle_interviews/?authuser=0)
