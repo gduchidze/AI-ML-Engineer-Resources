@@ -102,6 +102,7 @@
 
 ### Papers
 - https://magazine.sebastianraschka.com/p/understanding-large-language-models
+- https://arxiv.org/pdf/2408.13296
 
 ### Other Topics
 - [Become Create Engineering Leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader)
