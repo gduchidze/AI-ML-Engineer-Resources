@@ -116,8 +116,7 @@
 - [Google NotebookLM](https://notebooklm.google.com/)
 - [For Files Download](https://filecr.com/en/)
 - [Go Lang](https://go.dev/tour/list)
-https://theneuralmaze.substack.com/p/how-to-build-production-ready-recommender
-https://stanford-cs329s.github.io/syllabus.html
-
-
-https://www.masteringllm.com/course/advanced-genai-assessment#/home
+- https://theneuralmaze.substack.com/p/how-to-build-production-ready-recommender
+- https://stanford-cs329s.github.io/syllabus.html
+- https://www.masteringllm.com/course/advanced-genai-assessment#/home
+- https://www.jobsearch.dev/#nav-introduction
