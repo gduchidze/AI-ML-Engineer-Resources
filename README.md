@@ -120,3 +120,4 @@
 - https://stanford-cs329s.github.io/syllabus.html
 - https://www.masteringllm.com/course/advanced-genai-assessment#/home
 - https://www.jobsearch.dev/#nav-introduction
+- https://god-level-python.notion.site/AI-Engineer-HQ-b3c98407b4ab45819811db081ae9d102
