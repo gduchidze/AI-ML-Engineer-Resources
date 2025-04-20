@@ -96,28 +96,27 @@
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [70+ Machine Learning Datasets](https://data-flair.training/blogs/machine-learning-datasets/)
 
-#### Copilots
-- Cursor
+### Copilots
+- [Cursor](https://www.cursor.com/)
 - [Neo AI Agent](https://heyneo.so/blog)
 
 ### Papers
-- https://magazine.sebastianraschka.com/p/understanding-large-language-models
-- https://arxiv.org/pdf/2408.13296
+- [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
+- [ArXiv: 2408.13296](https://arxiv.org/pdf/2408.13296)
 
 ### Other Topics
-- [Become Create Engineering Leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader)
-- [JobHunting](https://www.yuan-meng.com/posts/mle_interviews/?authuser=0)
-- https://huyenchip.com/ml-interviews-book/contents/1.1.2.1-research-vs.-applied-research.html
-- https://mega.nz/folder/xB0UhLpR#EJaBhdzaf8AYWEifoQe9Gg
-- https://drive.google.com/drive/folders/1TPfLCV-v9B_94dXNFO9zn5E4Ji-TyvF2
-- 
+- [Become Great Engineering Leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader)
+- [Job Hunting Guide](https://www.yuan-meng.com/posts/mle_interviews/?authuser=0)
+- [Research vs. Applied Research](https://huyenchip.com/ml-interviews-book/contents/1.1.2.1-research-vs.-applied-research.html)
+- [Mega Resource Folder](https://mega.nz/folder/xB0UhLpR#EJaBhdzaf8AYWEifoQe9Gg)
+- [Google Drive Folder](https://drive.google.com/drive/folders/1TPfLCV-v9B_94dXNFO9zn5E4Ji-TyvF2)
 
 ### ETC
 - [Google NotebookLM](https://notebooklm.google.com/)
 - [For Files Download](https://filecr.com/en/)
 - [Go Lang](https://go.dev/tour/list)
-- https://theneuralmaze.substack.com/p/how-to-build-production-ready-recommender
-- https://stanford-cs329s.github.io/syllabus.html
-- https://www.masteringllm.com/course/advanced-genai-assessment#/home
-- https://www.jobsearch.dev/#nav-introduction
-- https://god-level-python.notion.site/AI-Engineer-HQ-b3c98407b4ab45819811db081ae9d102
+- [How to Build Production-Ready Recommender](https://theneuralmaze.substack.com/p/how-to-build-production-ready-recommender)
+- [Stanford CS329s Syllabus](https://stanford-cs329s.github.io/syllabus.html)
+- [Mastering LLM Course](https://www.masteringllm.com/course/advanced-genai-assessment#/home)
+- [Job Search Dev](https://www.jobsearch.dev/#nav-introduction)
+- [AI Engineer HQ (Notion)](https://god-level-python.notion.site/AI-Engineer-HQ-b3c98407b4ab45819811db081ae9d102)
