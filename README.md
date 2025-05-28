@@ -122,3 +122,4 @@
 - [AI Engineer HQ (Notion)](https://god-level-python.notion.site/AI-Engineer-HQ-b3c98407b4ab45819811db081ae9d102)
 - [Agentic Example](https://medium.com/@rubenszimbres/agent-development-kit-enhancing-multi-agents-systems-with-a2a-protocol-and-mcp-server-535547b21f9d)
 - [AI Course](https://artint.info/AIPython/)
+- [Stanford NLP](https://web.stanford.edu/class/cs224n/)
