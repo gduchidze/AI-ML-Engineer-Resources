@@ -80,6 +80,7 @@
 - [Azure MLOps - DevOps for Machine Learning MG](https://www.youtube.com/playlist?list=PLiQS6N-W1p3m9squzZ2cPgGdH5SBhjY6f)
 - [LLM Ops](https://www.youtube.com/watch?v=gtQfBwerYqw&list=PLmQAMKHKeLZ_77CBNeOoUyZUMzlqX-fpe&index=1)
 - [MLOps1 (AWS)](https://www.edx.org/learn/amazon-web-services-aws/statistics-com-mlops1-aws-deploying-ai-ml-models-in-production-using-amazon-web-services)
+- [Docker Basics](https://courses.mooc.fi/org/uh-cs/courses/devops-with-docker)
 
 ### Data Engineering
 - [Data Engineering Bootcamp](https://bootcamp.techcreator.io/)
